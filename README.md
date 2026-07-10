@@ -12,4 +12,4 @@ Unity内で使用するオブジェクトのモデリングを行い、ゲーム
 実際のゲームプレイ動画です。  
 ー＞https://youtu.be/fcTkf1pmS4Y?si=d1u2oNQsF8AeIqQF
 
-<img width="600" height="2000" alt="2026-07-10 (3)" src="https://github.com/user-attachments/assets/8f55739a-d2c7-433c-9693-7d419d72ed19" />
+<img src="https://github.com/user-attachments/assets/8f55739a-d2c7-433c-9693-7d419d72ed19" width="600">
